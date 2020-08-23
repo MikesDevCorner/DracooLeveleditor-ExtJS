@@ -1,0 +1,20 @@
+.export {
+	background-image: url(../images/icons/export.png) !important;
+}
+
+
+.import {
+	background-image: url(../images/icons/import.png) !important;
+}
+
+.play {
+	background-image: url(../images/icons/play.png) !important;
+}
+
+.download {
+	background-image: url(../images/icons/download.gif) !important;
+}
+
+.upload {
+	background-image: url(../images/icons/upload.png) !important;
+}

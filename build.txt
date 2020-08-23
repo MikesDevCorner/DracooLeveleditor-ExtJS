@@ -1,0 +1,5 @@
+//löschen von app.jsb3, app-ll.js und all-classes.js
+cd c:\SoftwareProjects\draco-libgdx\Leveleditor
+sencha create jsb -a http://dracoo-leveleditor.xsheetgames.com/debug.html -p app.jsb3
+//ändern von debug im app.jsb3 file auf false
+build -p app.jsb3 -d .
